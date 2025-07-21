@@ -148,3 +148,4 @@ The UI automatically discovers Claude Code projects from `~/.claude/projects/` a
 │   (React/Vite)  │◄──►│ (Express/WS)    │◄──►│  Integration    │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
+ 
